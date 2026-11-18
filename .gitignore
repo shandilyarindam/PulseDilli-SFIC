@@ -1,0 +1,40 @@
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+!delhi-ps-crm-backend/models/*.pkl
+.venv/
+venv/
+
+# Logs
+*.log
+
+# ngrok
+ngrok
+ngrok.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.exe
+
+vid/*.mp4 
+"vid/" 
+"~$*" 
+"scripts/" 
+quotation-sheet/generate_quotation.py
+scripts/
