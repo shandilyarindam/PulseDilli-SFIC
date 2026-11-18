@@ -44,4 +44,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 This dashboard is part of the [PulseDilli](https://github.com/shandilyarindam/delhi-ps-crm) system - an AI-powered WhatsApp civic grievance management platform serving all 272 wards of Delhi.
 
-Built by Team 5Baddies, NSUT.
+Built by Team 2Baddies, NSUT.

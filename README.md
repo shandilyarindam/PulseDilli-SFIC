@@ -215,7 +215,7 @@ The stateless architecture ensures horizontal scaling with no re-engineering -- 
 
 ## Team
 
-Built by **Team 5Baddies, NSUT**
+Built by **Team 2Baddies, NSUT** - Arindam Shandilya (backend, AI, deployment) and Ritika Singh (UI/UX, frontend, presentation)
 
 
 ---
