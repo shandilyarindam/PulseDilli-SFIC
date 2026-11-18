@@ -8,7 +8,7 @@ Citizens interact entirely through WhatsApp. No app downloads, no forms, no Engl
 
 ## Resources
 
-- [Demo Video](https://youtu.be/-ijPRAcV_T0?si=4b6ALCIpxPtBtqHP)
+- [Demo Video](https://youtu.be/pROggQ5krpw)
 - [Project Drive](https://drive.google.com/drive/folders/1b-VXsEavW6BJ71RT0Z1fzjyHT-kOoPHo)
 - [ML Model — Google Colab](https://colab.research.google.com/drive/1eMmbXmLwrAfmpn6QCj4pGfKrsuKsjtQl?usp=sharing)
 - [Cost Quotation Sheet](https://docs.google.com/spreadsheets/d/1Bt7-JaH7GhQL478bQmCY_5DWysrhF641/edit?usp=drivesdk&ouid=114737713209928965969&rtpof=true&sd=true)
